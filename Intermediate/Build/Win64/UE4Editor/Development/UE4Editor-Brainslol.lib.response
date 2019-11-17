@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Brainslol.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Engine_Game\Brainslol\Brainslol - Copy\Intermediate\Build\Win64\UE4Editor\Development\Brainslol\PCH.Brainslol.h.obj"
+"D:\Engine_Game\Brainslol\Brainslol - Copy\Intermediate\Build\Win64\UE4Editor\Development\Brainslol\BabyGM.cpp.obj"
+"D:\Engine_Game\Brainslol\Brainslol - Copy\Intermediate\Build\Win64\UE4Editor\Development\Brainslol\Brainslol.cpp.obj"
+"D:\Engine_Game\Brainslol\Brainslol - Copy\Intermediate\Build\Win64\UE4Editor\Development\Brainslol\MyCharacter.cpp.obj"
+"D:\Program Files (x86)\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Brainslol\PCLaunch.rc.res"
+"D:\Program Files (x86)\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Engine_Game\Brainslol\Brainslol - Copy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Brainslol.lib"

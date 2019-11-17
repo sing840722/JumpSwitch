@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Brainslol.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{F9F7A901-90E5-4BBF-BE9E-BE45CE68ACF4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Brainslol.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BrainslolEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C7ECB953-260E-4267-9605-680BC4740907}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultDeviceProfiles.INI">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Brainslol">
+			<UniqueIdentifier>{76B94DA7-8094-4613-8A7A-00D541A7BB66}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Brainslol\BabyGM.cpp">
+			<Filter>Source\Brainslol</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Brainslol\BabyGM.h">
+			<Filter>Source\Brainslol</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Brainslol\Brainslol.Build.cs">
+			<Filter>Source\Brainslol</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Brainslol\Brainslol.cpp">
+			<Filter>Source\Brainslol</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Brainslol\Brainslol.h">
+			<Filter>Source\Brainslol</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Brainslol\MyCharacter.cpp">
+			<Filter>Source\Brainslol</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Brainslol\MyCharacter.h">
+			<Filter>Source\Brainslol</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

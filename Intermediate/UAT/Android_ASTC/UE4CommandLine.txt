@@ -1,0 +1,1 @@
+../../../Brainslol/Brainslol.uproject  /Game/Maps/UI -Messaging -SessionId=8412B2394856609E164A5F9B146A21DA -SessionOwner=Chris -SessionName='Play On Device' -iterative
