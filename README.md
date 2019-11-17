@@ -25,7 +25,7 @@ Tap on the top of the building you want to jump to
 But be careful where you tap as if you land on the wrong building you fail
 
 ## Download and Play
-[Download APK](https://github.com/sing840722/JumpSwitch.git)
+[Download APK](https://drive.google.com/open?id=1jA-JVTgba2woU9a5XTpR-AGMIZLQcSZp)
 
 ## Run the Project
 1. Clone this git repository https://github.com/sing840722/JumpSwitch.git
