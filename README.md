@@ -28,8 +28,13 @@ But be careful where you tap as if you land on the wrong building you fail
 [Download APK](https://drive.google.com/open?id=1jA-JVTgba2woU9a5XTpR-AGMIZLQcSZp)
 
 ## Run the Project
+`*This project is created using UE4.16`
+
 1. Clone this git repository https://github.com/sing840722/JumpSwitch.git
 2. Open `Brainslol.uproject`
+3. Missing Brainslol Modules `Click Yes` to rebuild them
+4. Wait for the build
+5. Press the Play button on the top of the editor
 
 ## Credit
 Jake Martin
