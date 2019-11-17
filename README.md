@@ -4,8 +4,8 @@
 # Table of Content
 * [Introduction](#introduction)
 * [Gameplay](#gameplay)
-* [Download and Setup](#download-and-setup)
-* [Reference](#reference)
+* [Download and Play](#download-and-play)
+* [Run the Project](#run-the-project)
 * [Credit](#credit)
 
 ## Introudction
@@ -24,18 +24,12 @@ Tap on the top of the building you want to jump to
 
 But be careful where you tap as if you land on the wrong building you fail
 
-
-## Download and Setup
-
+## Download and Play
 [Download APK](https://github.com/sing840722/JumpSwitch.git)
 
-To Run the Project:
-
+## Run the Project
 1. Clone this git repository https://github.com/sing840722/JumpSwitch.git
 2. Open `Brainslol.uproject`
-
-
-## Reference
 
 ## Credit
 Jake Martin
